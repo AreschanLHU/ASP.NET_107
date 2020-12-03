@@ -1,0 +1,12 @@
+C:\Users\gkhga\source\repos\DataType2\DataType2\bin\Debug\netcoreapp3.1\DataType2.exe
+C:\Users\gkhga\source\repos\DataType2\DataType2\bin\Debug\netcoreapp3.1\DataType2.deps.json
+C:\Users\gkhga\source\repos\DataType2\DataType2\bin\Debug\netcoreapp3.1\DataType2.runtimeconfig.json
+C:\Users\gkhga\source\repos\DataType2\DataType2\bin\Debug\netcoreapp3.1\DataType2.runtimeconfig.dev.json
+C:\Users\gkhga\source\repos\DataType2\DataType2\bin\Debug\netcoreapp3.1\DataType2.dll
+C:\Users\gkhga\source\repos\DataType2\DataType2\bin\Debug\netcoreapp3.1\DataType2.pdb
+C:\Users\gkhga\source\repos\DataType2\DataType2\obj\Debug\netcoreapp3.1\DataType2.AssemblyInfoInputs.cache
+C:\Users\gkhga\source\repos\DataType2\DataType2\obj\Debug\netcoreapp3.1\DataType2.AssemblyInfo.cs
+C:\Users\gkhga\source\repos\DataType2\DataType2\obj\Debug\netcoreapp3.1\DataType2.csproj.CoreCompileInputs.cache
+C:\Users\gkhga\source\repos\DataType2\DataType2\obj\Debug\netcoreapp3.1\DataType2.dll
+C:\Users\gkhga\source\repos\DataType2\DataType2\obj\Debug\netcoreapp3.1\DataType2.pdb
+C:\Users\gkhga\source\repos\DataType2\DataType2\obj\Debug\netcoreapp3.1\DataType2.genruntimeconfig.cache

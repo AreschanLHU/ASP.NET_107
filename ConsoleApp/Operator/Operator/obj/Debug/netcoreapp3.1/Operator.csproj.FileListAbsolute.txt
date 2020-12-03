@@ -1,0 +1,13 @@
+C:\Users\gkhga\source\repos\Operator\Operator\bin\Debug\netcoreapp3.1\Operator.exe
+C:\Users\gkhga\source\repos\Operator\Operator\bin\Debug\netcoreapp3.1\Operator.deps.json
+C:\Users\gkhga\source\repos\Operator\Operator\bin\Debug\netcoreapp3.1\Operator.runtimeconfig.json
+C:\Users\gkhga\source\repos\Operator\Operator\bin\Debug\netcoreapp3.1\Operator.runtimeconfig.dev.json
+C:\Users\gkhga\source\repos\Operator\Operator\bin\Debug\netcoreapp3.1\Operator.dll
+C:\Users\gkhga\source\repos\Operator\Operator\bin\Debug\netcoreapp3.1\Operator.pdb
+C:\Users\gkhga\source\repos\Operator\Operator\obj\Debug\netcoreapp3.1\Operator.csprojAssemblyReference.cache
+C:\Users\gkhga\source\repos\Operator\Operator\obj\Debug\netcoreapp3.1\Operator.AssemblyInfoInputs.cache
+C:\Users\gkhga\source\repos\Operator\Operator\obj\Debug\netcoreapp3.1\Operator.AssemblyInfo.cs
+C:\Users\gkhga\source\repos\Operator\Operator\obj\Debug\netcoreapp3.1\Operator.csproj.CoreCompileInputs.cache
+C:\Users\gkhga\source\repos\Operator\Operator\obj\Debug\netcoreapp3.1\Operator.dll
+C:\Users\gkhga\source\repos\Operator\Operator\obj\Debug\netcoreapp3.1\Operator.pdb
+C:\Users\gkhga\source\repos\Operator\Operator\obj\Debug\netcoreapp3.1\Operator.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\gkhga\source\repos\Operator3\Operator3\bin\Debug\netcoreapp3.1\Operator3.exe
+C:\Users\gkhga\source\repos\Operator3\Operator3\bin\Debug\netcoreapp3.1\Operator3.deps.json
+C:\Users\gkhga\source\repos\Operator3\Operator3\bin\Debug\netcoreapp3.1\Operator3.runtimeconfig.json
+C:\Users\gkhga\source\repos\Operator3\Operator3\bin\Debug\netcoreapp3.1\Operator3.runtimeconfig.dev.json
+C:\Users\gkhga\source\repos\Operator3\Operator3\bin\Debug\netcoreapp3.1\Operator3.dll
+C:\Users\gkhga\source\repos\Operator3\Operator3\bin\Debug\netcoreapp3.1\Operator3.pdb
+C:\Users\gkhga\source\repos\Operator3\Operator3\obj\Debug\netcoreapp3.1\Operator3.AssemblyInfoInputs.cache
+C:\Users\gkhga\source\repos\Operator3\Operator3\obj\Debug\netcoreapp3.1\Operator3.AssemblyInfo.cs
+C:\Users\gkhga\source\repos\Operator3\Operator3\obj\Debug\netcoreapp3.1\Operator3.csproj.CoreCompileInputs.cache
+C:\Users\gkhga\source\repos\Operator3\Operator3\obj\Debug\netcoreapp3.1\Operator3.dll
+C:\Users\gkhga\source\repos\Operator3\Operator3\obj\Debug\netcoreapp3.1\Operator3.pdb
+C:\Users\gkhga\source\repos\Operator3\Operator3\obj\Debug\netcoreapp3.1\Operator3.genruntimeconfig.cache

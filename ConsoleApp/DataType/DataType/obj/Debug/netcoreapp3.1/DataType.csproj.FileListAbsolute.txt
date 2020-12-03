@@ -1,0 +1,13 @@
+C:\Users\gkhga\source\repos\DataType\DataType\bin\Debug\netcoreapp3.1\DataType.exe
+C:\Users\gkhga\source\repos\DataType\DataType\bin\Debug\netcoreapp3.1\DataType.deps.json
+C:\Users\gkhga\source\repos\DataType\DataType\bin\Debug\netcoreapp3.1\DataType.runtimeconfig.json
+C:\Users\gkhga\source\repos\DataType\DataType\bin\Debug\netcoreapp3.1\DataType.runtimeconfig.dev.json
+C:\Users\gkhga\source\repos\DataType\DataType\bin\Debug\netcoreapp3.1\DataType.dll
+C:\Users\gkhga\source\repos\DataType\DataType\bin\Debug\netcoreapp3.1\DataType.pdb
+C:\Users\gkhga\source\repos\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.csprojAssemblyReference.cache
+C:\Users\gkhga\source\repos\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.AssemblyInfoInputs.cache
+C:\Users\gkhga\source\repos\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.AssemblyInfo.cs
+C:\Users\gkhga\source\repos\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.csproj.CoreCompileInputs.cache
+C:\Users\gkhga\source\repos\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.dll
+C:\Users\gkhga\source\repos\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.pdb
+C:\Users\gkhga\source\repos\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.genruntimeconfig.cache
